@@ -1,4 +1,4 @@
-#QRCode Generator Project
+#QRCode Generator 
 
 import qrcode
 
