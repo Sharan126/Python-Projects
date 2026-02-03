@@ -1,4 +1,4 @@
-# Expense Tracker P
+# Expense Tracker Pro
 #updated Version
 expenses = []  # list of all expenses in dictionary form
 print("Welcome to the Expense Tracker! Save your expenses easily")
