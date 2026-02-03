@@ -1,4 +1,4 @@
-# Rule based AI Chatbot
+# Rule based AI 
 #Updated Version
 import datetime
 import time
