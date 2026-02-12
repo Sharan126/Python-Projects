@@ -1,2 +1,2 @@
-## Pytho Prjoects
+## Python Prjoects
 # This is a python
