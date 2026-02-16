@@ -1,2 +1,2 @@
 ## Python Prjoects
-# This is 
+# This is
