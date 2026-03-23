@@ -1,1 +1,1 @@
-## Python Proje
+## Python Proj
